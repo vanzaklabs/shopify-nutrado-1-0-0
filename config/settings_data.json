@@ -10,10 +10,16 @@
 {
   "current": {
     "favicon": "shopify://shop_images/favicon-nutrado-01.svg",
-    "color-background": "#f7f3df",
+    "color-background": "#ffffff",
     "color-headings-text": "#052333",
     "color-body-text": "#052333",
     "color-body-text-light": "#6f99c3",
+    "color-links": "#f6a74a",
+    "color-links-active": "#5dab71",
+    "color-border": "#052333",
+    "color-overlay": "#f7f3df",
+    "color-action-text": "#052333",
+    "color-action-background": "#d89bba",
     "color-success-background": "#e5ffe5",
     "content_for_index": []
   }
