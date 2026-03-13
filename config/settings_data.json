@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "favicon": "shopify://shop_images/favicon-nutrado-01.svg",
     "color-background": "#f7f3df",
     "color-headings-text": "#052333",
     "color-body-text": "#052333",
