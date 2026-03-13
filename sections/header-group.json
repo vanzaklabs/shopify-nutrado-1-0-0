@@ -17,7 +17,7 @@
         "announcement_pHd987": {
           "type": "announcement",
           "settings": {
-            "text": "ATÉ 6X SEM JUROS",
+            "text": "Até 6x Sem Juros",
             "link": ""
           }
         },
@@ -122,11 +122,27 @@
         "color-overlay": "#000000",
         "color-overlay-opacity": 0
       }
+    },
+    "page_header_logo_banner_v2_nk4rDC": {
+      "type": "page-header-logo-banner-v2",
+      "name": "Logo banner with Text",
+      "settings": {
+        "logo_image": "shopify://shop_images/nutrado-logotipo-02.svg",
+        "video_hosted": "shopify://files/videos/IMG_4928.MOV",
+        "video_hosted_mobile": "shopify://files/videos/IMG_4928.MOV",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "content_headline": "Your headline here",
+        "color-body-text": "transparent",
+        "color-overlay": "transparent",
+        "color-overlay-opacity": 0
+      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "page_header_logo_banner_DJLpfi"
+    "page_header_logo_banner_DJLpfi",
+    "page_header_logo_banner_v2_nk4rDC"
   ]
 }
