@@ -81,7 +81,7 @@
         "sticky_header_always": false,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
-        "header_always_blurred": true,
+        "header_always_blurred": false,
         "show_line_separator": false,
         "show_shadow": false,
         "large_screen_logo_width": 120,
