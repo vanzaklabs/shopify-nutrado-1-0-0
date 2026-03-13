@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Wonder",
-    "theme_version": "2.2.1",
-    "theme_author": "Nethype",
-    "theme_documentation_url": "https://support.wonder-theme.com",
-    "theme_support_url": "https://www.wonder-theme.com"
+    "theme_name": "NUTRADO",
+    "theme_version": "1.0.0",
+    "theme_author": "Vanzak Labs",
+    "theme_documentation_url": "https://nutrado.com.br",
+    "theme_support_url": "https://nutrado.com.br"
   },
   {
     "name": "t:settings_schema.favicon.name",
