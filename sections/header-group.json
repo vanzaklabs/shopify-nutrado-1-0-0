@@ -97,11 +97,11 @@
         "show_country_selector_label": false,
         "show_country_selector_flag": true,
         "show_language_selector": false,
-        "drawer_title": "Shop by",
+        "drawer_title": "Comprar por",
         "enable_submenu_link_in_drawer": false,
-        "typing_search": "Find a product...",
-        "suggestions_title": "Top Sellers",
-        "suggestions_menu": ""
+        "typing_search": "Encontrar um produto...",
+        "suggestions_title": "Mais Vendidos",
+        "suggestions_menu": "nutrado"
       }
     },
     "page_header_logo_banner_DJLpfi": {
