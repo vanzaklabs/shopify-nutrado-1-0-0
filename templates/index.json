@@ -130,7 +130,7 @@
         "title": "",
         "heading_richtext": "<h2>Your headline here</h2>",
         "swipe_on_mobile": false,
-        "full-width-enabled": true,
+        "full-width-enabled": false,
         "image_ratio": "adapt",
         "color-body-text": "rgba(0,0,0,0)",
         "background_color": "rgba(0,0,0,0)",
