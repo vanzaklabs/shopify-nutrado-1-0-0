@@ -77,7 +77,7 @@
       ],
       "settings": {
         "layout": "option_4",
-        "sticky_header": false,
+        "sticky_header": true,
         "sticky_header_always": true,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
