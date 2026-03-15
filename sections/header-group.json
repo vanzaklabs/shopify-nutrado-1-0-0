@@ -106,7 +106,6 @@
     },
     "page_header_logo_banner_DJLpfi": {
       "type": "page-header-logo-banner",
-      "disabled": true,
       "settings": {
         "logo_image": "shopify://shop_images/logo-azul.png",
         "video_hosted": "shopify://files/videos/IMG_4928.MOV",
@@ -121,69 +120,11 @@
         "color-overlay": "#000000",
         "color-overlay-opacity": 0
       }
-    },
-    "page_header_logo_banner_v2_iTUNV4": {
-      "type": "page-header-logo-banner-v2",
-      "blocks": {
-        "heading_LkFCdz": {
-          "type": "heading",
-          "settings": {
-            "heading": "Headline here",
-            "disable_on_mobile": false,
-            "size_heading": 100,
-            "size_heading_mobile": 100
-          }
-        },
-        "subheading_richtext_Cpxgz4": {
-          "type": "subheading_richtext",
-          "settings": {
-            "subheading_richtext": "Tell you story",
-            "subheading_richtext_disable_on_mobile": false
-          }
-        },
-        "text_YGAB8J": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body",
-            "disable_on_mobile": false
-          }
-        },
-        "button_4RMRbK": {
-          "type": "button",
-          "settings": {
-            "button_select": "primary",
-            "button_label": "Button label",
-            "button_link": "/",
-            "disable_on_mobile": false,
-            "second_button_select": "primary",
-            "second_button_label": "Button label",
-            "second_button_link": "/",
-            "second_disable_on_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_LkFCdz",
-        "subheading_richtext_Cpxgz4",
-        "text_YGAB8J",
-        "button_4RMRbK"
-      ],
-      "name": "Logo banner with Text",
-      "settings": {
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_horizontal_position": "center",
-        "content_headline": "Your headline here",
-        "color-body-text": "transparent",
-        "color-overlay": "transparent",
-        "color-overlay-opacity": 0
-      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "page_header_logo_banner_DJLpfi",
-    "page_header_logo_banner_v2_iTUNV4"
+    "page_header_logo_banner_DJLpfi"
   ]
 }
