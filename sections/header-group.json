@@ -77,8 +77,8 @@
       ],
       "settings": {
         "layout": "option_4",
-        "sticky_header": false,
-        "sticky_header_always": true,
+        "sticky_header": true,
+        "sticky_header_always": false,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
         "header_always_blurred": false,
@@ -107,9 +107,8 @@
     "page_header_logo_banner_DJLpfi": {
       "type": "page-header-logo-banner",
       "settings": {
-        "logo_image": "shopify://shop_images/logo-azul.png",
-        "video_hosted": "shopify://files/videos/IMG_4928.MOV",
-        "video_hosted_mobile": "shopify://files/videos/IMG_4928.MOV",
+        "image_hosted": "shopify://shop_images/E-Mail_2_-_Mes_do_Consumidor_1__02.png",
+        "image_hosted_mobile": "shopify://shop_images/Feed_1.png",
         "additional_text": "",
         "button_style": "link",
         "button_label": "",
