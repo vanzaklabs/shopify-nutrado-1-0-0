@@ -415,7 +415,7 @@
             "background_color": "#6f99c3",
             "heading": "Revitalizes the Skin!",
             "text": "",
-            "promo_text_color": "#ffffff",
+            "promo_text_color": "#6f99c3",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
@@ -429,7 +429,7 @@
             "background_color": "#5dab71",
             "heading": "Your headline",
             "text": "<p>Tell your story</p>",
-            "promo_text_color": "rgba(0,0,0,0)",
+            "promo_text_color": "#5dab71",
             "desktop_text_vertical_position": "center",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -443,7 +443,7 @@
             "background_color": "#f6a74a",
             "heading": "Improves Skin Hydration!",
             "text": "",
-            "promo_text_color": "#ffffff",
+            "promo_text_color": "#f6a74a",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
@@ -457,7 +457,7 @@
             "background_color": "#d89bba",
             "heading": "Improves Skin Hydration!",
             "text": "",
-            "promo_text_color": "#ffffff",
+            "promo_text_color": "#d89bba",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "left",
             "mobile_text_horizontal_position": "center"
@@ -472,7 +472,7 @@
       ],
       "settings": {
         "heading": "",
-        "full-width-enabled": true,
+        "full-width-enabled": false,
         "text_alignment": "center",
         "product_name_style": "body",
         "show_vendor": false,
@@ -481,7 +481,7 @@
         "size_heading": 200,
         "size_heading_mobile": 120,
         "color-heading-text": "rgba(0,0,0,0)",
-        "section-color-overlay": "#f6a74a",
+        "section-color-overlay": "#ffffff",
         "margin-top": 0,
         "margin-bottom": 0
       }
