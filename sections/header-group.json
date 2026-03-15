@@ -78,7 +78,7 @@
       "custom_css": [],
       "settings": {
         "layout": "option_4",
-        "sticky_header": false,
+        "sticky_header": true,
         "sticky_header_always": true,
         "header_bg_opacity": 5,
         "header_bg_blur": 25,
