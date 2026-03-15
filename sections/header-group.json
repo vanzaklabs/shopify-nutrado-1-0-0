@@ -75,9 +75,7 @@
       "block_order": [
         "column_W3ihtQ"
       ],
-      "custom_css": [
-        "header {position: sticky !important; top: 0;}"
-      ],
+      "custom_css": [],
       "settings": {
         "layout": "option_4",
         "sticky_header": false,
