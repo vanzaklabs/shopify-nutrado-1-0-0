@@ -77,7 +77,7 @@
       ],
       "settings": {
         "layout": "option_4",
-        "sticky_header": false,
+        "sticky_header": true,
         "sticky_header_always": true,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
@@ -91,7 +91,7 @@
         "mobile_footer_menu": "footer",
         "teaser_menu": "main-menu",
         "teaser_menu_limit": 3,
-        "transparent_logo": "shopify://shop_images/nutrado-logotipo-02.svg",
+        "transparent_logo": "shopify://shop_images/nutrado-logotipo-01.svg",
         "transparent_header_color": "#ffffff",
         "show_country_selector": true,
         "show_country_selector_label": false,
