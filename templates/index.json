@@ -276,7 +276,7 @@
         "animation": "marquee",
         "animation_speed": "100",
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#d89bba",
         "margin-top": 20,
         "margin-bottom": 0
       }
@@ -304,10 +304,10 @@
       "settings": {
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
-        "color-body-text": "#000000",
-        "background_color": "#faece6",
+        "color-body-text": "#052333",
+        "background_color": "#d89bba",
         "background_gradient": "",
-        "margin-top": 28,
+        "margin-top": 36,
         "margin-bottom": 0
       }
     },
@@ -352,7 +352,7 @@
         "mobile_fixed_height": 600,
         "enable_full_screen_mode": false,
         "color-body-heading": "#000000",
-        "color-overlay": "#faece6",
+        "color-overlay": "#d89bba",
         "color-overlay-opacity": 100,
         "color-body-text": "#000000",
         "margin-top": 0,
@@ -368,7 +368,7 @@
         "button_link": "",
         "margin-top": 32,
         "margin-bottom": 60,
-        "background_color": "#faece6"
+        "background_color": "#d89bba"
       }
     },
     "1644542625dcf6daf0": {
@@ -412,7 +412,7 @@
           "settings": {
             "slider_product": "",
             "text_color": "",
-            "background_color": "#ecf5e9",
+            "background_color": "#6f99c3",
             "heading": "Revitalizes the Skin!",
             "text": "",
             "promo_text_color": "#ffffff",
@@ -421,12 +421,40 @@
             "mobile_text_horizontal_position": "center"
           }
         },
-        "product_EGwNbR": {
+        "product_8JxXkK": {
           "type": "product",
           "settings": {
             "slider_product": "",
+            "text_color": "rgba(0,0,0,0)",
+            "background_color": "#5dab71",
+            "heading": "Your headline",
+            "text": "<p>Tell your story</p>",
+            "promo_text_color": "rgba(0,0,0,0)",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "product_EGwNbR": {
+          "type": "product",
+          "settings": {
+            "slider_product": "curcumina",
             "text_color": "",
-            "background_color": "#f7f2e9",
+            "background_color": "#f6a74a",
+            "heading": "Improves Skin Hydration!",
+            "text": "",
+            "promo_text_color": "#ffffff",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "left",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "product_ex7ej8": {
+          "type": "product",
+          "settings": {
+            "slider_product": "curcumina",
+            "text_color": "",
+            "background_color": "#d89bba",
             "heading": "Improves Skin Hydration!",
             "text": "",
             "promo_text_color": "#ffffff",
@@ -438,7 +466,9 @@
       },
       "block_order": [
         "product_HVQQc6",
-        "product_EGwNbR"
+        "product_8JxXkK",
+        "product_EGwNbR",
+        "product_ex7ej8"
       ],
       "settings": {
         "heading": "",
@@ -451,7 +481,7 @@
         "size_heading": 200,
         "size_heading_mobile": 120,
         "color-heading-text": "rgba(0,0,0,0)",
-        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay": "#f6a74a",
         "margin-top": 0,
         "margin-bottom": 0
       }
@@ -519,7 +549,7 @@
         "hide-brand-name": false,
         "video_button": false,
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#f7f3df",
         "margin-top": 60,
         "margin-bottom": 68
       }
@@ -646,7 +676,7 @@
         "size_heading_mobile": 150,
         "line_height_mobile": 1.7,
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#f6a74a",
         "margin-top": 80,
         "margin-bottom": 88
       }
