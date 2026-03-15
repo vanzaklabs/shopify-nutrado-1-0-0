@@ -105,6 +105,7 @@
     "page_header_logo_banner_DJLpfi": {
       "type": "page-header-logo-banner",
       "settings": {
+        "logo_image": "shopify://shop_images/nutrado-logotipo-02.svg",
         "image_hosted": "shopify://shop_images/E-Mail_2_-_Mes_do_Consumidor_1__02.png",
         "image_hosted_mobile": "shopify://shop_images/Feed_1.png",
         "additional_text": "",
@@ -114,7 +115,7 @@
         "button_link": "",
         "button_link_in_new_window": false,
         "color-body-text": "#ffffff",
-        "color-overlay": "#000000",
+        "color-overlay": "#052333",
         "color-overlay-opacity": 0
       }
     }
