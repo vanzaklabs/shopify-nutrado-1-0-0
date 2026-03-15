@@ -136,7 +136,7 @@
         "full-width-enabled": false,
         "image_ratio": "adapt",
         "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
+        "background_color": "#f7f3df",
         "margin-top": 0,
         "margin-bottom": 0
       }
