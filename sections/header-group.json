@@ -76,7 +76,7 @@
         "column_W3ihtQ"
       ],
       "custom_css": [
-        "page-header#header {position: sticky; top: 0;}"
+        "header {position: sticky !important; top: 0;}"
       ],
       "settings": {
         "layout": "option_4",
