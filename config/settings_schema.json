@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "NUTRADO",
+    "theme_name": "Nutrado",
     "theme_version": "1.0.0",
-    "theme_author": "Vanzak Labs",
-    "theme_documentation_url": "https://nutrado.com.br",
-    "theme_support_url": "https://nutrado.com.br"
+    "theme_author": "Vanzak Labs / Flávio Conca",
+    "theme_documentation_url": "https://vanzaklabs.com.br",
+    "theme_support_url": "https://vanzaklabs.com.br"
   },
   {
     "name": "t:settings_schema.favicon.name",
