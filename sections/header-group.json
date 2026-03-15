@@ -92,7 +92,7 @@
         "teaser_menu": "main-menu",
         "teaser_menu_limit": 3,
         "transparent_logo": "shopify://shop_images/nutrado-logotipo-02.svg",
-        "transparent_header_color": "#f7f3df",
+        "transparent_header_color": "#052333",
         "show_country_selector": true,
         "show_country_selector_label": false,
         "show_country_selector_flag": true,
