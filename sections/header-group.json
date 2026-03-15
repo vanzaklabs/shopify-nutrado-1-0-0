@@ -109,6 +109,7 @@
     },
     "page_header_logo_banner_DJLpfi": {
       "type": "page-header-logo-banner",
+      "custom_css": [],
       "settings": {
         "logo_image": "shopify://shop_images/nutrado-logotipo-02.svg",
         "image_hosted": "shopify://shop_images/E-Mail_2_-_Mes_do_Consumidor_1__02.png",
