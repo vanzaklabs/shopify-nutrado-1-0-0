@@ -78,7 +78,7 @@
       "settings": {
         "layout": "option_4",
         "sticky_header": false,
-        "sticky_header_always": true,
+        "sticky_header_always": false,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
         "header_always_blurred": false,
@@ -98,7 +98,7 @@
         "show_country_selector_flag": true,
         "show_language_selector": false,
         "drawer_title": "Comprar por",
-        "enable_submenu_link_in_drawer": false,
+        "enable_submenu_link_in_drawer": true,
         "typing_search": "Encontrar um produto...",
         "suggestions_title": "Mais Vendidos",
         "suggestions_menu": "nutrado"
