@@ -76,9 +76,9 @@
         "column_W3ihtQ"
       ],
       "settings": {
-        "layout": "option_4",
+        "layout": "option_5",
         "sticky_header": false,
-        "sticky_header_always": true,
+        "sticky_header_always": false,
         "header_bg_opacity": 100,
         "header_bg_blur": 0,
         "header_always_blurred": false,
