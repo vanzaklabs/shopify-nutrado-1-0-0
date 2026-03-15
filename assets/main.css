@@ -12167,3 +12167,11 @@ main#root > .wt-featured-nav {
   margin-top: 0.5em;
 }
 /*# sourceMappingURL=main.css.map */
+
+
+
+ /* Teste Header  */
+ page-header#header {
+    position: sticky;
+    top: 0;
+}
